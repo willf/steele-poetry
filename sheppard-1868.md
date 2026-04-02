@@ -658,7 +658,7 @@ The Great Physician.
   
 Luke vi. 19.  
   
-1 E mourning sinners, here disclose  
+1 YE mourning sinners, here disclose  
 Your deep complaints, your various woes;  
 Approach, 'tis Jesus, he can heal  
 The pains which mourning sinners feel.  
