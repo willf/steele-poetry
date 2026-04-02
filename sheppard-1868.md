@@ -25,13 +25,7 @@ HAMILTON, ADAMS, AND CO., PATERNOSTER ROW.
   
 MDCCCLIXIII.  
   
----  
-  
-[IMAGE 0007]  
-  
-The image provided is too blurry and low-resolution to accurately recognize any text. It appears to be a blank or heavily pixelated screen with no discernible content. Therefore, I cannot provide any information about the content of this image.  
-  
----  
+---
   
 [IMAGE 0008; PAGE i]  
   
