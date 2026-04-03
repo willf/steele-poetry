@@ -9166,17 +9166,5 @@ O let thy powerful grace appear,
 And justice abide her word;  
 Then shall a released nation lose,  
 And love, and praise the Lord.  
-  
----  
-  
-[IMAGE 0274; PAGE 258]  
-  
-No portrait of Miss Steele is known to the present writer, and from her sensitive modesty and seclusion it may perhaps be inferred that none was taken. Otherwise it would be hard to commend her good friend Dr. Evans in his choice of a frontispiece for the volume of her "remains" which he published after her death. Only a sepulchral urn represents the poetess, to which a stilted female figure appeals with outstretched hands and the legend:  
-  
-"Forgive the wish that would have kept thee here."  
-  
----  
-  
-[IMAGE 0275; PAGE 259]  
-  
-Many of the hymns are still sung, some few are sung quite widely. But the latest (1898) American Baptist hymnal contains but seven of the hymns of Theodosia in a total of eight hundred and fifty-six.  
+
+The End of the first VOLUME.
