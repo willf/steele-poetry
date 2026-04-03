@@ -1,78 +1,3 @@
-[IMAGE 0000]  
-  
-0  
-REGON RULE CO.  
-1 U.S.A.  
-2 3 4  
-  
-1  
-S.A.  
-  
-2  
-  
-3  
-  
-4  
-  
-5  
-  
-OREGON RULE CO.  
-U.S.A.  
-10 c  
-  
----  
-  
-[IMAGE 0001]  
-  
-F-46.205  
-St323  
-v.2  
-  
----  
-  
-[IMAGE 0002]  
-  
-FROM THE LIBRARY OF  
-  
-REV. LOUIS FITZGERALD BENSON, D. D.  
-  
-BEQUEATHED BY HIM TO  
-  
-THE LIBRARY OF  
-  
-PRINCETON THEOLOGICAL SEMINARY  
-  
----  
-  
-[IMAGE 0003]  
-  
-1. The image provided is a blank page with no visible text or images.  
-2. It appears to be a placeholder for a document, possibly an advertisement or a catalog entry.  
-3. The background is a light, neutral color with some scratches and wear.  
-4. There are no discernible features such as logos, headers, or footers that can be identified.  
-5. The layout is simple and unadorned, focusing solely on the content area.  
-  
-Given the lack of context, it is not possible to provide a definitive answer about the nature of the content in the image. However, it could be related to a book cover, a product listing, or a similar form of visual media where a title or description would typically be present.  
-  
----  
-  
-[IMAGE 0004]  
-  
-The image provided is too blurry and low-resolution to accurately recognize any text. It appears to be a blank or very faint page with no visible content. Therefore, no text can be extracted from this image.  
-  
----  
-  
-[IMAGE 0005]  
-  
-1. The image provided is a blank page with no visible text or images.  
-2. It appears to be a document cover page or a placeholder for a title page.  
-3. The background is a light, yellowish color with some discoloration and spots.  
-4. There are no clear markings, logos, or special features that can be identified.  
-  
-Based on the provided image, it is not possible to determine if there is any text or content present. Therefore, I will provide a general description of what is shown without guessing or inferring anything from the image.  
-  
----  
-  
 [IMAGE 0006]  
   
 VOL. II.  
@@ -117,14 +42,6 @@ Yard, London, 1780.
   
 ---  
   
-[IMAGE 0008; PAGE ii]  
-  
-Digitized by the Internet Archive in 2013  
-  
-http://archive.org/details/subjectsc02stee  
-  
----  
-  
 [IMAGE 0009; PAGE iii]  
   
 POEMS  
@@ -138,13 +55,7 @@ CHIEFLY
 DEVOTIONAL.  
   
 VOL. II.  
-  
----  
-  
-[IMAGE 0010; PAGE iv]  
-  
-M. O. M. 2  
-  
+    
 ---  
   
 [IMAGE 0011; PAGE v]  
@@ -318,36 +229,6 @@ Hundred and forty-seventh 249
 Hundred and forty-eighth 253  
 Hundred and forty-ninth 257  
 Hundred and fiftieth 259  
-  
----  
-  
-[IMAGE 0016; PAGE x]  
-  
-CONTENTS  
-  
-age  
-  
-age  
-  
-age  
-  
-age  
-  
-age  
-  
-age  
-  
-age  
-  
-age  
-  
-age  
-  
-age  
-  
-age  
-  
-age  
   
 ---  
   
@@ -8921,48 +8802,4 @@ But chiefly you who know his word,
 Adore, and love, and praise the Lord.  
   
 THE END OF THE SECOND VOLUME.  
-  
----  
-  
-[IMAGE 0277; PAGE 261]  
-  
-The image provided is too blurry and low-resolution to accurately recognize any text. It appears to be a blank or very faint page with no visible content. Therefore, no text can be extracted from this image.  
-  
----  
-  
-[IMAGE 0278; PAGE 262]  
-  
-1. The image provided is too blurry to accurately recognize any text or content.  
-2. It appears to be a blank page with no visible text or images.  
-3. Therefore, there is no answer to this question based on the provided image.  
-  
----  
-  
----  
-  
-[IMAGE 0279; PAGE 263]  
-  
-1. The image provided is too blurry to accurately recognize any text or content.  
-2. It appears to be a blank or poorly parsed page with no visible text.  
-3. Therefore, no answer can be generated from this image.  
-  
----  
-  
----  
-  
-[IMAGE 0280; PAGE 264]  
-  
-```markdown  
-  
-```  
-  
----  
-  
-[IMAGE 0281; PAGE 265]  
-  
-6 7 8 9  
-  
-20  
-  
----  
-  
+
