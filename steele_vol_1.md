@@ -606,7 +606,7 @@ CONTENTS
   
 ---  
   
-[IMAGE 0017; PAGE xiii]  
+[IMAGE 0017; PAGE 1]  
   
 HYMNS  
   
@@ -633,7 +633,7 @@ Vol. I. B III. Thy
   
 ---  
   
-[IMAGE 0018; PAGE xiv]  
+[IMAGE 0018; PAGE 2]  
   
 III.  
   
@@ -669,7 +669,7 @@ II. In
   
 ---  
   
-[IMAGE 0019; PAGE 1]  
+[IMAGE 0019; PAGE 3]  
   
 II.  
   
@@ -710,7 +710,7 @@ B 2 Me.
   
 ---  
   
-[IMAGE 0020; PAGE 2]  
+[IMAGE 0020; PAGE 4]  
   
 Meditating on Creation and Providence.  
   
@@ -745,7 +745,7 @@ V. The
   
 ---  
   
-[IMAGE 0021; PAGE 3]  
+[IMAGE 0021; PAGE 5]  
   
 V.  
   
@@ -786,7 +786,7 @@ B 3 X. From
   
 ---  
   
-[IMAGE 0022; PAGE 4]  
+[IMAGE 0022; PAGE 6]  
   
 X.  
   
@@ -827,7 +827,7 @@ Re-
   
 ---  
   
-[IMAGE 0023; PAGE 5]  
+[IMAGE 0023; PAGE 7]  
   
 REDEEMING LOVE.  
   
@@ -862,7 +862,7 @@ V. Black
   
 ---  
   
-[IMAGE 0024; PAGE 6]  
+[IMAGE 0024; PAGE 8]  
   
 V.  
   
@@ -903,7 +903,7 @@ X. Myf-
   
 ---  
   
-[IMAGE 0025; PAGE 7]  
+[IMAGE 0025; PAGE 9]  
   
 X.  
   
@@ -948,7 +948,7 @@ XV. Still
   
 ---  
   
-[IMAGE 0026; PAGE 8]  
+[IMAGE 0026; PAGE 10]  
   
 XV.  
   
@@ -989,7 +989,7 @@ XX. When
   
 ---  
   
-[IMAGE 0027; PAGE 9]  
+[IMAGE 0027; PAGE 11]  
   
 XX.  
   
@@ -1030,7 +1030,7 @@ XXV. Then:
   
 ---  
   
-[IMAGE 0028; PAGE 10]  
+[IMAGE 0028; PAGE 12]  
   
 XXV.  
   
@@ -1067,7 +1067,7 @@ XXX. But
   
 ---  
   
-[IMAGE 0029; PAGE 11]  
+[IMAGE 0029; PAGE 13]  
   
 XXX.  
   
@@ -1104,7 +1104,7 @@ XXXV. Still
   
 ---  
   
-[IMAGE 0030; PAGE 12]  
+[IMAGE 0030; PAGE 14]  
   
 XXXV.  
   
@@ -1139,7 +1139,7 @@ My Saviour, and my all.
   
 ---  
   
-[IMAGE 0031; PAGE 13]  
+[IMAGE 0031; PAGE 15]  
   
 The GREAT PHYSICIAN.  
 Luke vi. 19.  
@@ -1175,7 +1175,7 @@ V. That
   
 ---  
   
-[IMAGE 0032; PAGE 14]  
+[IMAGE 0032; PAGE 16]  
   
 V.  
   
@@ -1207,7 +1207,7 @@ And spread thy wonderous praise abroad.
   
 ---  
   
-[IMAGE 0033; PAGE 15]  
+[IMAGE 0033; PAGE 17]  
   
 LONGING SOULS invited to the Gospel-Feast. Luke xiv. 22.  
   
@@ -1239,7 +1239,7 @@ VOL. I. C V. O come,
   
 ---  
   
-[IMAGE 0034; PAGE 16]  
+[IMAGE 0034; PAGE 18]  
   
 V  
   
@@ -1275,7 +1275,7 @@ II. Thus
   
 ---  
   
-[IMAGE 0035; PAGE 17]  
+[IMAGE 0035; PAGE 19]  
   
 II.  
   
@@ -1316,7 +1316,7 @@ C 2 VII. But
   
 ---  
   
-[IMAGE 0036; PAGE 18]  
+[IMAGE 0036; PAGE 20]  
   
 VII.  
   
@@ -1352,7 +1352,7 @@ III. While
   
 ---  
   
-[IMAGE 0037; PAGE 19]  
+[IMAGE 0037; PAGE 21]  
   
 III.  
   
@@ -1384,7 +1384,7 @@ With gratitude and praise.
   
 ---  
   
-[IMAGE 0038; PAGE 20]  
+[IMAGE 0038; PAGE 22]  
   
 An Evening Hymn.  
   
@@ -1417,7 +1417,7 @@ V. My
   
 ---  
   
-[IMAGE 0039; PAGE 21]  
+[IMAGE 0039; PAGE 23]  
   
 V.  
   
@@ -1458,7 +1458,7 @@ C 4 On
   
 ---  
   
-[IMAGE 0040; PAGE 22]  
+[IMAGE 0040; PAGE 24]  
   
 On a Stormy Night.  
   
@@ -1490,7 +1490,7 @@ V. O let
   
 ---  
   
-[IMAGE 0041; PAGE 23]  
+[IMAGE 0041; PAGE 25]  
   
 [ 25 ]  
   
@@ -1528,7 +1528,7 @@ III. The
   
 ---  
   
-[IMAGE 0042; PAGE 24]  
+[IMAGE 0042; PAGE 26]  
   
 III.  
   
@@ -1569,7 +1569,7 @@ VIII. Dear
   
 ---  
   
-[IMAGE 0043; PAGE 25]  
+[IMAGE 0043; PAGE 27]  
   
 VIII.  
   
@@ -1606,7 +1606,7 @@ III. Here
   
 ---  
   
-[IMAGE 0044; PAGE 26]  
+[IMAGE 0044; PAGE 28]  
   
 III.  
   
@@ -1643,7 +1643,7 @@ II. Should
   
 ---  
   
-[IMAGE 0045; PAGE 27]  
+[IMAGE 0045; PAGE 29]  
   
 II.  
   
@@ -1684,7 +1684,7 @@ The
   
 ---  
   
-[IMAGE 0046; PAGE 28]  
+[IMAGE 0046; PAGE 30]  
   
 The Favor of God the only sa.  
 TISFYING GOOD. Psalm iv. 6, 7.  
@@ -1721,7 +1721,7 @@ V. Im-
   
 ---  
   
-[IMAGE 0047; PAGE 29]  
+[IMAGE 0047; PAGE 31]  
   
 V.  
   
@@ -1755,7 +1755,7 @@ The
   
 ---  
   
-[IMAGE 0048; PAGE 30]  
+[IMAGE 0048; PAGE 32]  
   
 The transforming Vision of God.  
 Psalm xvii. 15.  
@@ -1792,7 +1792,7 @@ V. There
   
 ---  
   
-[IMAGE 0049; PAGE 31]  
+[IMAGE 0049; PAGE 33]  
   
 V.  
   
@@ -1833,7 +1833,7 @@ Vol. I. D X. Lord
   
 ---  
   
-[IMAGE 0050; PAGE 32]  
+[IMAGE 0050; PAGE 34]  
   
 X.  
   
@@ -1869,7 +1869,7 @@ III. Plea-
   
 ---  
   
-[IMAGE 0051; PAGE 33]  
+[IMAGE 0051; PAGE 35]  
   
 III.  
   
@@ -1910,7 +1910,7 @@ D2 VIII. There
   
 ---  
   
-[IMAGE 0052; PAGE 34]  
+[IMAGE 0052; PAGE 36]  
   
 VIII.  
   
@@ -1951,7 +1951,7 @@ XIII. Lord,
   
 ---  
   
-[IMAGE 0053; PAGE 35]  
+[IMAGE 0053; PAGE 37]  
   
 XHI.  
   
@@ -1987,7 +1987,7 @@ D 3 IV. But
   
 ---  
   
-[IMAGE 0054; PAGE 36]  
+[IMAGE 0054; PAGE 38]  
   
 IV.  
   
@@ -2025,7 +2025,7 @@ III. Thy
   
 ---  
   
-[IMAGE 0055; PAGE 37]  
+[IMAGE 0055; PAGE 39]  
   
 III.  
   
@@ -2059,7 +2059,7 @@ D 4 The
   
 ---  
   
-[IMAGE 0056; PAGE 38]  
+[IMAGE 0056; PAGE 40]  
   
 The Voice of the Creatures.  
   
@@ -2092,7 +2092,7 @@ V. For
   
 ---  
   
-[IMAGE 0057; PAGE 39]  
+[IMAGE 0057; PAGE 41]  
   
 V.  
   
@@ -2126,7 +2126,7 @@ A RURAL
   
 ---  
   
-[IMAGE 0058; PAGE 40]  
+[IMAGE 0058; PAGE 42]  
   
 A RURAL HYMN.  
   
@@ -2156,7 +2156,7 @@ III. Ye
   
 ---  
   
-[IMAGE 0059; PAGE 41]  
+[IMAGE 0059; PAGE 43]  
   
 III.  
   
@@ -2191,7 +2191,7 @@ His
   
 ---  
   
-[IMAGE 0060; PAGE 42]  
+[IMAGE 0060; PAGE 44]  
   
 [ 44 ]  
   
@@ -2226,7 +2226,7 @@ VIII. Ye
   
 ---  
   
-[IMAGE 0061; PAGE 43]  
+[IMAGE 0061; PAGE 45]  
   
 VIII.  
   
@@ -2261,7 +2261,7 @@ Proclaim
   
 ---  
   
-[IMAGE 0062; PAGE 44]  
+[IMAGE 0062; PAGE 46]  
   
 Proclaim abroad,  
 (As you fulfill  
@@ -2294,7 +2294,7 @@ XIII. Fair
   
 ---  
   
-[IMAGE 0063; PAGE 45]  
+[IMAGE 0063; PAGE 47]  
   
 XIII.  
   
@@ -2329,7 +2329,7 @@ Your
   
 ---  
   
-[IMAGE 0064; PAGE 46]  
+[IMAGE 0064; PAGE 48]  
   
 Your voices raise,  
 Ye highly bleist  
@@ -2360,7 +2360,7 @@ II. Thou
   
 ---  
   
-[IMAGE 0065; PAGE 47]  
+[IMAGE 0065; PAGE 49]  
   
 II.  
   
@@ -2401,7 +2401,7 @@ E. PRAISE
   
 ---  
   
-[IMAGE 0066; PAGE 48]  
+[IMAGE 0066; PAGE 50]  
   
 PRAISE to God for the Blessings of Providence and Grace.  
   
@@ -2437,7 +2437,7 @@ V. When
   
 ---  
   
-[IMAGE 0067; PAGE 49]  
+[IMAGE 0067; PAGE 51]  
   
 V.  
   
@@ -2478,7 +2478,7 @@ E 2 X. 'Tis
   
 ---  
   
-[IMAGE 0068; PAGE 50]  
+[IMAGE 0068; PAGE 52]  
   
 X.  
   
@@ -2519,7 +2519,7 @@ XV. Lord,
   
 ---  
   
-[IMAGE 0069; PAGE 51]  
+[IMAGE 0069; PAGE 53]  
   
 [ 53 ]  
   
@@ -2559,7 +2559,7 @@ III. No
   
 ---  
   
-[IMAGE 0070; PAGE 52]  
+[IMAGE 0070; PAGE 54]  
   
 L 54 ]  
   
@@ -2598,7 +2598,7 @@ II. Whither
   
 ---  
   
-[IMAGE 0071; PAGE 53]  
+[IMAGE 0071; PAGE 55]  
   
 II.  
   
@@ -2639,7 +2639,7 @@ E 4 An
   
 ---  
   
-[IMAGE 0072; PAGE 54]  
+[IMAGE 0072; PAGE 56]  
   
 An Evening Reflection.  
   
@@ -2675,7 +2675,7 @@ V. On
   
 ---  
   
-[IMAGE 0073; PAGE 55]  
+[IMAGE 0073; PAGE 57]  
   
 V.  
   
@@ -2716,7 +2716,7 @@ X. Jesus!
   
 ---  
   
-[IMAGE 0074; PAGE 56]  
+[IMAGE 0074; PAGE 58]  
   
 X.  
   
@@ -2751,7 +2751,7 @@ III. Here,
   
 ---  
   
-[IMAGE 0075; PAGE 57]  
+[IMAGE 0075; PAGE 59]  
   
 III.  
   
@@ -2792,7 +2792,7 @@ VIII. When
   
 ---  
   
-[IMAGE 0076; PAGE 58]  
+[IMAGE 0076; PAGE 60]  
   
 VIII.  
   
@@ -2833,7 +2833,7 @@ The
   
 ---  
   
-[IMAGE 0077; PAGE 59]  
+[IMAGE 0077; PAGE 61]  
   
 The Influences of the Spirit of God in the Heart. John xiv. 16, 17.  
   
@@ -2866,7 +2866,7 @@ V. Whene’er
   
 ---  
   
-[IMAGE 0078; PAGE 60]  
+[IMAGE 0078; PAGE 62]  
   
 V.  
   
@@ -2900,7 +2900,7 @@ CHRIST
   
 ---  
   
-[IMAGE 0079; PAGE 61]  
+[IMAGE 0079; PAGE 63]  
   
 CHRIST the Physician of Souls.  
 Jerem. viii. 22.  
@@ -2937,7 +2937,7 @@ V. See;
   
 ---  
   
-[IMAGE 0080; PAGE 62]  
+[IMAGE 0080; PAGE 64]  
   
 V.  
   
@@ -2974,7 +2974,7 @@ III. Hence
   
 ---  
   
-[IMAGE 0081; PAGE 63]  
+[IMAGE 0081; PAGE 65]  
   
 III.  
   
@@ -3011,7 +3011,7 @@ Vol. I. F II. Be-
   
 ---  
   
-[IMAGE 0082; PAGE 64]  
+[IMAGE 0082; PAGE 66]  
   
 II.  
   
@@ -3052,7 +3052,7 @@ The
   
 ---  
   
-[IMAGE 0083; PAGE 65]  
+[IMAGE 0083; PAGE 67]  
   
 The Heavenly Guest.  
 Rev. 111. 20.  
@@ -3089,7 +3089,7 @@ F2 V. Lord,
   
 ---  
   
-[IMAGE 0084; PAGE 66]  
+[IMAGE 0084; PAGE 68]  
   
 V.  
   
@@ -3126,7 +3126,7 @@ III. To
   
 ---  
   
-[IMAGE 0085; PAGE 67]  
+[IMAGE 0085; PAGE 69]  
   
 III.  
   
@@ -3167,7 +3167,7 @@ F 3 FAITH
   
 ---  
   
-[IMAGE 0086; PAGE 68]  
+[IMAGE 0086; PAGE 70]  
   
 FAITH in the Joys of Heaven.  
 2 Cor. v. 7.  
@@ -3204,7 +3204,7 @@ V. Oh!
   
 ---  
   
-[IMAGE 0087; PAGE 69]  
+[IMAGE 0087; PAGE 71]  
   
 V.  
   
@@ -3238,7 +3238,7 @@ F4 STRENGTH
   
 ---  
   
-[IMAGE 0088; PAGE 70]  
+[IMAGE 0088; PAGE 72]  
   
 STRENGTH and SAFETY in GOD ALONE.  
 Psalm cv. 4.  
@@ -3275,7 +3275,7 @@ V. The
   
 ---  
   
-[IMAGE 0089; PAGE 71]  
+[IMAGE 0089; PAGE 73]  
   
 [ 73 ]  
   
@@ -3311,7 +3311,7 @@ A Funeral
   
 ---  
   
-[IMAGE 0090; PAGE 72]  
+[IMAGE 0090; PAGE 74]  
   
 A FUNERAL HYMN.  
   
@@ -3344,7 +3344,7 @@ V. To
   
 ---  
   
-[IMAGE 0091; PAGE 73]  
+[IMAGE 0091; PAGE 75]  
   
 [ 75 ]  
   
@@ -3381,7 +3381,7 @@ III. Yes,
   
 ---  
   
-[IMAGE 0092; PAGE 74]  
+[IMAGE 0092; PAGE 76]  
   
 III.  
   
@@ -3417,7 +3417,7 @@ II. When
   
 ---  
   
-[IMAGE 0093; PAGE 75]  
+[IMAGE 0093; PAGE 77]  
   
 [ 77 ]  
   
@@ -3455,7 +3455,7 @@ VII. Then
   
 ---  
   
-[IMAGE 0094; PAGE 76]  
+[IMAGE 0094; PAGE 78]  
   
 VII.  
   
@@ -3492,7 +3492,7 @@ IV. Here
   
 ---  
   
-[IMAGE 0095; PAGE 77]  
+[IMAGE 0095; PAGE 79]  
   
 IV.  
   
@@ -3529,7 +3529,7 @@ IV. In
   
 ---  
   
-[IMAGE 0096; PAGE 78]  
+[IMAGE 0096; PAGE 80]  
   
 IV.  
   
@@ -3566,7 +3566,7 @@ II. Shall
   
 ---  
   
-[IMAGE 0097; PAGE 79]  
+[IMAGE 0097; PAGE 81]  
   
 II.  
   
@@ -3607,7 +3607,7 @@ Vol. I. G VII: These
   
 ---  
   
-[IMAGE 0098; PAGE 80]  
+[IMAGE 0098; PAGE 82]  
   
 VII.  
   
@@ -3644,7 +3644,7 @@ IV. My
   
 ---  
   
-[IMAGE 0099; PAGE 81]  
+[IMAGE 0099; PAGE 83]  
   
 IV.  
   
@@ -3681,7 +3681,7 @@ G 2 III. 'Tis
   
 ---  
   
-[IMAGE 0100; PAGE 82]  
+[IMAGE 0100; PAGE 84]  
   
 III.  
   
@@ -3713,7 +3713,7 @@ That thou art mine,—and I am blest.
   
 ---  
   
-[IMAGE 0101; PAGE 83]  
+[IMAGE 0101; PAGE 85]  
   
 The Incarnate Saviour.  
 John 1. 14.  
@@ -3750,7 +3750,7 @@ G 3 V. Adoring
   
 ---  
   
-[IMAGE 0102; PAGE 84]  
+[IMAGE 0102; PAGE 86]  
   
 V.  
   
@@ -3787,7 +3787,7 @@ III. Amid
   
 ---  
   
-[IMAGE 0103; PAGE 85]  
+[IMAGE 0103; PAGE 87]  
   
 III.  
   
@@ -3819,7 +3819,7 @@ The barren desert shall rejoice,
   
 ---  
   
-[IMAGE 0104; PAGE 86]  
+[IMAGE 0104; PAGE 88]  
   
 PARDONING LOVE. Jer. 111. 22.  
 Hof. xiv. 4.  
@@ -3856,7 +3856,7 @@ V. Thy
   
 ---  
   
-[IMAGE 0105; PAGE 87]  
+[IMAGE 0105; PAGE 89]  
   
 V.  
   
@@ -3893,7 +3893,7 @@ IV. To
   
 ---  
   
-[IMAGE 0106; PAGE 88]  
+[IMAGE 0106; PAGE 90]  
   
 IV.  
   
@@ -3929,7 +3929,7 @@ II. There
   
 ---  
   
-[IMAGE 0107; PAGE 89]  
+[IMAGE 0107; PAGE 91]  
   
 II.  
   
@@ -3970,7 +3970,7 @@ VII. And
   
 ---  
   
-[IMAGE 0108; PAGE 90]  
+[IMAGE 0108; PAGE 92]  
   
 [ 9² ]  
   
@@ -4007,7 +4007,7 @@ III. Come
   
 ---  
   
-[IMAGE 0109; PAGE 91]  
+[IMAGE 0109; PAGE 93]  
   
 III.  
   
@@ -4039,7 +4039,7 @@ And at thy feet adore.
   
 ---  
   
-[IMAGE 0110; PAGE 92]  
+[IMAGE 0110; PAGE 94]  
   
 The HEAVENLY CONQUEROR.  
 Rev. 111. 21.  
@@ -4076,7 +4076,7 @@ V. Though
   
 ---  
   
-[IMAGE 0111; PAGE 93]  
+[IMAGE 0111; PAGE 95]  
   
 V.  
   
@@ -4110,7 +4110,7 @@ Long.
   
 ---  
   
-[IMAGE 0112; PAGE 94]  
+[IMAGE 0112; PAGE 96]  
   
 LONGING after unseen PLEASURES.  
 2 Cor. 1v. 18.  
@@ -4147,7 +4147,7 @@ V. There
   
 ---  
   
-[IMAGE 0113; PAGE 95]  
+[IMAGE 0113; PAGE 97]  
   
 V.  
 There joys unseen by mortal eyes,  
@@ -4179,7 +4179,7 @@ Vol. I. H II. In
   
 ---  
   
-[IMAGE 0114; PAGE 96]  
+[IMAGE 0114; PAGE 98]  
   
 II.  
   
@@ -4220,7 +4220,7 @@ VII.
   
 ---  
   
-[IMAGE 0115; PAGE 97]  
+[IMAGE 0115; PAGE 99]  
   
 VII.  
   
@@ -4253,7 +4253,7 @@ H2 IV. O
   
 ---  
   
-[IMAGE 0116; PAGE 98]  
+[IMAGE 0116; PAGE 100]  
   
 IV.  
   
@@ -4289,7 +4289,7 @@ II. In
   
 ---  
   
-[IMAGE 0117; PAGE 99]  
+[IMAGE 0117; PAGE 101]  
   
 II.  
   
@@ -4330,7 +4330,7 @@ H 3 LAST
   
 ---  
   
-[IMAGE 0118; PAGE 100]  
+[IMAGE 0118; PAGE 102]  
   
 LASTING HAPPINESS.  
   
@@ -4363,7 +4363,7 @@ V. Let
   
 ---  
   
-[IMAGE 0119; PAGE 101]  
+[IMAGE 0119; PAGE 103]  
   
 V.  
   
@@ -4399,7 +4399,7 @@ H 4 IV. To
   
 ---  
   
-[IMAGE 0120; PAGE 102]  
+[IMAGE 0120; PAGE 104]  
   
 IV.  
   
@@ -4437,7 +4437,7 @@ III. Eternal
   
 ---  
   
-[IMAGE 0121; PAGE 103]  
+[IMAGE 0121; PAGE 105]  
   
 III.  
   
@@ -4469,7 +4469,7 @@ O raise me to thy bright abode.
   
 ---  
   
-[IMAGE 0122; PAGE 104]  
+[IMAGE 0122; PAGE 106]  
   
 At the Funeral of a Young Person.  
   
@@ -4505,7 +4505,7 @@ V. O let
   
 ---  
   
-[IMAGE 0123; PAGE 105]  
+[IMAGE 0123; PAGE 107]  
   
 V.  
   
@@ -4541,7 +4541,7 @@ III. Dear
   
 ---  
   
-[IMAGE 0124; PAGE 106]  
+[IMAGE 0124; PAGE 108]  
   
 III.  
   
@@ -4573,7 +4573,7 @@ Thy night, the gates of day.
   
 ---  
   
-[IMAGE 0125; PAGE 107]  
+[IMAGE 0125; PAGE 109]  
   
 The Presence of Christ the Joy of his People.  
   
@@ -4608,7 +4608,7 @@ V. Come,
   
 ---  
   
-[IMAGE 0126; PAGE 108]  
+[IMAGE 0126; PAGE 110]  
   
 V.  
   
@@ -4644,7 +4644,7 @@ III. And
   
 ---  
   
-[IMAGE 0127; PAGE 109]  
+[IMAGE 0127; PAGE 111]  
   
 III.  
   
@@ -4678,7 +4678,7 @@ Defining
   
 ---  
   
-[IMAGE 0128; PAGE 110]  
+[IMAGE 0128; PAGE 112]  
   
 Defiring a taste of REAL JOY.  
   
@@ -4714,7 +4714,7 @@ V. How
   
 ---  
   
-[IMAGE 0129; PAGE 111]  
+[IMAGE 0129; PAGE 113]  
   
 V.  
   
@@ -4748,7 +4748,7 @@ Vol. I. I Hum-
   
 ---  
   
-[IMAGE 0130; PAGE 112]  
+[IMAGE 0130; PAGE 114]  
   
 HUMBLE RELIANCE.  
   
@@ -4781,7 +4781,7 @@ V. II
   
 ---  
   
-[IMAGE 0131; PAGE 113]  
+[IMAGE 0131; PAGE 115]  
   
 V.  
   
@@ -4813,7 +4813,7 @@ And drive my fears away.
   
 ---  
   
-[IMAGE 0132; PAGE 114]  
+[IMAGE 0132; PAGE 116]  
   
 The Presence of God the Life and Light of the Soul.  
   
@@ -4849,7 +4849,7 @@ V. Should
   
 ---  
   
-[IMAGE 0133; PAGE 115]  
+[IMAGE 0133; PAGE 117]  
   
 V.  
   
@@ -4886,7 +4886,7 @@ I 3 II. But
   
 ---  
   
-[IMAGE 0134; PAGE 116]  
+[IMAGE 0134; PAGE 118]  
   
 II.  
   
@@ -4918,7 +4918,7 @@ And make me thine, and only thine.
   
 ---  
   
-[IMAGE 0135; PAGE 117]  
+[IMAGE 0135; PAGE 119]  
   
 The Inconstant Heart.  
   
@@ -4954,7 +4954,7 @@ I 4 V. O let
   
 ---  
   
-[IMAGE 0136; PAGE 118]  
+[IMAGE 0136; PAGE 120]  
   
 V.  
   
@@ -4990,7 +4990,7 @@ IV. What
   
 ---  
   
-[IMAGE 0137; PAGE 119]  
+[IMAGE 0137; PAGE 121]  
   
 IV.  
   
@@ -5031,7 +5031,7 @@ IX. There
   
 ---  
   
-[IMAGE 0138; PAGE 120]  
+[IMAGE 0138; PAGE 122]  
   
 IX.  
   
@@ -5067,7 +5067,7 @@ IV. To
   
 ---  
   
-[IMAGE 0139; PAGE 121]  
+[IMAGE 0139; PAGE 123]  
   
 IV.  
   
@@ -5099,7 +5099,7 @@ Dear Saviour, daily more like thee.
   
 ---  
   
-[IMAGE 0140; PAGE 122]  
+[IMAGE 0140; PAGE 124]  
   
 RETIREMENT and REFLECTION.  
   
@@ -5135,7 +5135,7 @@ V. Eternity,
   
 ---  
   
-[IMAGE 0141; PAGE 123]  
+[IMAGE 0141; PAGE 125]  
   
 V.  
   
@@ -5167,7 +5167,7 @@ And guide me safe to heaven and thee.
   
 ---  
   
-[IMAGE 0142; PAGE 124]  
+[IMAGE 0142; PAGE 126]  
   
 HOPE in DARKNESS.  
   
@@ -5200,7 +5200,7 @@ V. O for
   
 ---  
   
-[IMAGE 0143; PAGE 125]  
+[IMAGE 0143; PAGE 127]  
   
 V.  
   
@@ -5234,7 +5234,7 @@ IV. When-
   
 ---  
   
-[IMAGE 0144; PAGE 126]  
+[IMAGE 0144; PAGE 128]  
   
 IV.  
   
@@ -5275,7 +5275,7 @@ IX. O
   
 ---  
   
-[IMAGE 0145; PAGE 127]  
+[IMAGE 0145; PAGE 129]  
   
 IX.  
   
@@ -5316,7 +5316,7 @@ Vol. I. K XIV. Adieu
   
 ---  
   
-[IMAGE 0146; PAGE 128]  
+[IMAGE 0146; PAGE 130]  
   
 XIV.  
   
@@ -5353,7 +5353,7 @@ IV. Jesus
   
 ---  
   
-[IMAGE 0147; PAGE 129]  
+[IMAGE 0147; PAGE 131]  
   
 IV.  
   
@@ -5391,7 +5391,7 @@ II. Thy
   
 ---  
   
-[IMAGE 0148; PAGE 130]  
+[IMAGE 0148; PAGE 132]  
   
 II.  
   
@@ -5423,7 +5423,7 @@ Grant, bounteous God,—and I am blest.
   
 ---  
   
-[IMAGE 0149; PAGE 131]  
+[IMAGE 0149; PAGE 133]  
   
 REFUGE and STRENGTH in the Mercy of God.  
   
@@ -5457,7 +5457,7 @@ K 3 V. My
   
 ---  
   
-[IMAGE 0150; PAGE 132]  
+[IMAGE 0150; PAGE 134]  
   
 V.  
   
@@ -5494,7 +5494,7 @@ III. 1s
   
 ---  
   
-[IMAGE 0151; PAGE 133]  
+[IMAGE 0151; PAGE 135]  
   
 III.  
   
@@ -5535,7 +5535,7 @@ K 4 VIII. And
   
 ---  
   
-[IMAGE 0152; PAGE 134]  
+[IMAGE 0152; PAGE 136]  
   
 VIII.  
   
@@ -5572,7 +5572,7 @@ II. My
   
 ---  
   
-[IMAGE 0153; PAGE 135]  
+[IMAGE 0153; PAGE 137]  
   
 II.  
   
@@ -5613,7 +5613,7 @@ CHRIST
   
 ---  
   
-[IMAGE 0154; PAGE 136]  
+[IMAGE 0154; PAGE 138]  
   
 CHRIST the Life of the Soul.  
 John xiv. 19.  
@@ -5650,7 +5650,7 @@ V. Here
   
 ---  
   
-[IMAGE 0155; PAGE 137]  
+[IMAGE 0155; PAGE 139]  
   
 V.  
   
@@ -5686,7 +5686,7 @@ IV. 'Tis
   
 ---  
   
-[IMAGE 0156; PAGE 138]  
+[IMAGE 0156; PAGE 140]  
   
 IV.  
   
@@ -5727,7 +5727,7 @@ IX. O let
   
 ---  
   
-[IMAGE 0157; PAGE 139]  
+[IMAGE 0157; PAGE 141]  
   
 IX.  
   
@@ -5763,7 +5763,7 @@ III. I languish
   
 ---  
   
-[IMAGE 0158; PAGE 140]  
+[IMAGE 0158; PAGE 142]  
   
 III.  
   
@@ -5797,7 +5797,7 @@ Mourning
   
 ---  
   
-[IMAGE 0159; PAGE 141]  
+[IMAGE 0159; PAGE 143]  
   
 Mourning the Absence of God, and longing for his gracious Presence.  
   
@@ -5830,7 +5830,7 @@ V. Dear
   
 ---  
   
-[IMAGE 0160; PAGE 142]  
+[IMAGE 0160; PAGE 144]  
   
 [ 144 ]  
   
@@ -5868,7 +5868,7 @@ II. While
   
 ---  
   
-[IMAGE 0161; PAGE 143]  
+[IMAGE 0161; PAGE 145]  
   
 II.  
   
@@ -5909,7 +5909,7 @@ Vol. I L VII. No,
   
 ---  
   
-[IMAGE 0162; PAGE 144]  
+[IMAGE 0162; PAGE 146]  
   
 VII.  
   
@@ -5945,7 +5945,7 @@ III. Thy
   
 ---  
   
-[IMAGE 0163; PAGE 145]  
+[IMAGE 0163; PAGE 147]  
   
 III.  
   
@@ -5986,7 +5986,7 @@ L2 VIII. And
   
 ---  
   
-[IMAGE 0164; PAGE 146]  
+[IMAGE 0164; PAGE 148]  
   
 VIII.  
   
@@ -6022,7 +6022,7 @@ II. Un-
   
 ---  
   
-[IMAGE 0165; PAGE 147]  
+[IMAGE 0165; PAGE 149]  
   
 II.  
   
@@ -6063,7 +6063,7 @@ L3
   
 ---  
   
-[IMAGE 0166; PAGE 148]  
+[IMAGE 0166; PAGE 150]  
   
 Trusting in the Divine Veracity.  
   
@@ -6096,7 +6096,7 @@ V. The
   
 ---  
   
-[IMAGE 0167; PAGE 149]  
+[IMAGE 0167; PAGE 151]  
   
 V.  
   
@@ -6130,7 +6130,7 @@ L4 IV. Shall
   
 ---  
   
-[IMAGE 0168; PAGE 150]  
+[IMAGE 0168; PAGE 152]  
   
 IV.  
   
@@ -6171,7 +6171,7 @@ IX. In-
   
 ---  
   
-[IMAGE 0169; PAGE 151]  
+[IMAGE 0169; PAGE 153]  
   
 1X.  
   
@@ -6208,7 +6208,7 @@ IV. Jesus,
   
 ---  
   
-[IMAGE 0170; PAGE 152]  
+[IMAGE 0170; PAGE 154]  
   
 IV.  
   
@@ -6249,7 +6249,7 @@ IX. When
   
 ---  
   
-[IMAGE 0171; PAGE 153]  
+[IMAGE 0171; PAGE 155]  
   
 IX.  
   
@@ -6286,7 +6286,7 @@ III. But
   
 ---  
   
-[IMAGE 0172; PAGE 154]  
+[IMAGE 0172; PAGE 156]  
   
 III.  
   
@@ -6318,7 +6318,7 @@ And die to see thy face!
   
 ---  
   
-[IMAGE 0173; PAGE 155]  
+[IMAGE 0173; PAGE 157]  
   
 The Promised Land.  
 Isaiah xxxiii. 17.  
@@ -6355,7 +6355,7 @@ V. There
   
 ---  
   
-[IMAGE 0174; PAGE 156]  
+[IMAGE 0174; PAGE 158]  
   
 V.  
   
@@ -6396,7 +6396,7 @@ X. O may
   
 ---  
   
-[IMAGE 0175; PAGE 157]  
+[IMAGE 0175; PAGE 159]  
   
 X.  
   
@@ -6433,7 +6433,7 @@ III. Along
   
 ---  
   
-[IMAGE 0176; PAGE 158]  
+[IMAGE 0176; PAGE 160]  
   
 III.  
   
@@ -6465,7 +6465,7 @@ For all my hopes are there.
   
 ---  
   
-[IMAGE 0177; PAGE 159]  
+[IMAGE 0177; PAGE 161]  
   
 The Christian's noblest Resolution.  
 Joshua xxiv. 15.  
@@ -6502,7 +6502,7 @@ VOL. I. M V. O may
   
 ---  
   
-[IMAGE 0178; PAGE 160]  
+[IMAGE 0178; PAGE 162]  
   
 V.  
   
@@ -6539,7 +6539,7 @@ IV. Ye
   
 ---  
   
-[IMAGE 0179; PAGE 161]  
+[IMAGE 0179; PAGE 163]  
   
 IV.  
   
@@ -6575,7 +6575,7 @@ M 2 III. To
   
 ---  
   
-[IMAGE 0180; PAGE 162]  
+[IMAGE 0180; PAGE 164]  
   
 III.  
   
@@ -6611,7 +6611,7 @@ II. Thy
   
 ---  
   
-[IMAGE 0181; PAGE 163]  
+[IMAGE 0181; PAGE 165]  
   
 II.  
   
@@ -6652,7 +6652,7 @@ M 3 The
   
 ---  
   
-[IMAGE 0182; PAGE 164]  
+[IMAGE 0182; PAGE 166]  
   
 The Glorious Presence of Christ in Heaven. John XVII. 24.  
   
@@ -6688,7 +6688,7 @@ V. There
   
 ---  
   
-[IMAGE 0183; PAGE 165]  
+[IMAGE 0183; PAGE 167]  
   
 V.  
   
@@ -6725,7 +6725,7 @@ M 4 III. There
   
 ---  
   
-[IMAGE 0184; PAGE 166]  
+[IMAGE 0184; PAGE 168]  
   
 III.  
   
@@ -6766,7 +6766,7 @@ Hymn
   
 ---  
   
-[IMAGE 0185; PAGE 167]  
+[IMAGE 0185; PAGE 169]  
   
 Hymn to Jesus.  
   
@@ -6798,7 +6798,7 @@ V. Through
   
 ---  
   
-[IMAGE 0186; PAGE 168]  
+[IMAGE 0186; PAGE 170]  
   
 V.  
   
@@ -6839,7 +6839,7 @@ PRAISE
   
 ---  
   
-[IMAGE 0187; PAGE 169]  
+[IMAGE 0187; PAGE 171]  
   
 PRAISE to the REDEEMER.  
   
@@ -6875,7 +6875,7 @@ V. Dear
   
 ---  
   
-[IMAGE 0188; PAGE 170]  
+[IMAGE 0188; PAGE 172]  
   
 V.  
   
@@ -6912,7 +6912,7 @@ III. His
   
 ---  
   
-[IMAGE 0189; PAGE 171]  
+[IMAGE 0189; PAGE 173]  
   
 III.  
   
@@ -6948,7 +6948,7 @@ II. While
   
 ---  
   
-[IMAGE 0190; PAGE 172]  
+[IMAGE 0190; PAGE 174]  
   
 II.  
   
@@ -6989,7 +6989,7 @@ The
   
 ---  
   
-[IMAGE 0191; PAGE 173]  
+[IMAGE 0191; PAGE 175]  
   
 The Wonders of Redemption.  
 1 Pet. 111. 18.  
@@ -7026,7 +7026,7 @@ V. Jesus,
   
 ---  
   
-[IMAGE 0192; PAGE 174]  
+[IMAGE 0192; PAGE 176]  
   
 V.  
   
@@ -7062,7 +7062,7 @@ III. Yet
   
 ---  
   
-[IMAGE 0193; PAGE 175]  
+[IMAGE 0193; PAGE 177]  
   
 III.  
   
@@ -7096,7 +7096,7 @@ VOL. I. N FAITH
   
 ---  
   
-[IMAGE 0194; PAGE 176]  
+[IMAGE 0194; PAGE 178]  
   
 FAITH in a Redeemer’s Sufferings.  
   
@@ -7132,7 +7132,7 @@ V. Re-
   
 ---  
   
-[IMAGE 0195; PAGE 177]  
+[IMAGE 0195; PAGE 179]  
   
 V.  
   
@@ -7168,7 +7168,7 @@ N 2 III. To
   
 ---  
   
-[IMAGE 0196; PAGE 178]  
+[IMAGE 0196; PAGE 180]  
   
 III.  
   
@@ -7202,7 +7202,7 @@ Meditating
   
 ---  
   
-[IMAGE 0197; PAGE 179]  
+[IMAGE 0197; PAGE 181]  
   
 Meditating on the Redeemer’s Sufferings.  
   
@@ -7238,7 +7238,7 @@ N 2 V. But
   
 ---  
   
-[IMAGE 0198; PAGE 180]  
+[IMAGE 0198; PAGE 182]  
   
 V.  
   
@@ -7274,7 +7274,7 @@ II. When
   
 ---  
   
-[IMAGE 0199; PAGE 181]  
+[IMAGE 0199; PAGE 183]  
   
 II.  
   
@@ -7315,7 +7315,7 @@ N 4 VII. Guilty
   
 ---  
   
-[IMAGE 0200; PAGE 182]  
+[IMAGE 0200; PAGE 184]  
   
 VII.  
   
@@ -7351,7 +7351,7 @@ III. Then
   
 ---  
   
-[IMAGE 0201; PAGE 183]  
+[IMAGE 0201; PAGE 185]  
   
 III.  
   
@@ -7382,7 +7382,7 @@ Inspire a sweeter, nobler song.
   
 ---  
   
-[IMAGE 0202; PAGE 184]  
+[IMAGE 0202; PAGE 186]  
   
 III.  
   
@@ -7394,7 +7394,7 @@ VI.
   
 ---  
   
-[IMAGE 0203; PAGE 185]  
+[IMAGE 0203; PAGE 187]  
   
 POEMS  
   
@@ -7404,13 +7404,13 @@ SEVERAL OCCASIONS.
   
 ---  
   
-[IMAGE 0204; PAGE 186]  
+[IMAGE 0204; PAGE 188]  
   
 REVENAL OCCASION.  
   
 ---  
   
-[IMAGE 0205; PAGE 187]  
+[IMAGE 0205; PAGE 189]  
   
 OCCASIONAL POEMS.  
   
@@ -7437,7 +7437,7 @@ III. Indulgent
   
 ---  
   
-[IMAGE 0206; PAGE 188]  
+[IMAGE 0206; PAGE 190]  
   
 III.  
   
@@ -7470,7 +7470,7 @@ VI. If
   
 ---  
   
-[IMAGE 0207; PAGE 189]  
+[IMAGE 0207; PAGE 191]  
   
 VI.  
   
@@ -7499,7 +7499,7 @@ Here
   
 ---  
   
-[IMAGE 0208; PAGE 190]  
+[IMAGE 0208; PAGE 192]  
   
 Here may I stretch my wondering eyes around O’er all the beauteous landscape, and behold Almighty power and wisdom plain impress’d On every tree, on every plant and flower. All own the sovereign Architect divine, And in their different language speak his praise. The gentle zephyrs with harmonious breath, Brush through the grove, and play along the stream, And in soft whispers to the silver wave, Speak their Creator’s name, and die away. The silver wave retains the pleasing theme, Laves her glad banks, and gently murmuring on, Bears to the neighbouring trees the welcome found; They bend their wavering tops, adore and praise. The lofty mountains rear their towering heads, Tall and majestic, to the fleecy clouds; With awful pride confesss their Maker God, How great his power, how wide his dread command.  
   
@@ -7509,7 +7509,7 @@ Harmonious all and fair! whole nature joins To speak the wonders of creating ski
   
 ---  
   
-[IMAGE 0209; PAGE 191]  
+[IMAGE 0209; PAGE 193]  
   
 Bids us in all his works confess the God,  
 And bend our souls adoring at his feet.  
@@ -7542,7 +7542,7 @@ VOL. I. O HAPPINESS
   
 ---  
   
-[IMAGE 0210; PAGE 192]  
+[IMAGE 0210; PAGE 194]  
   
 HAPPINESS.  
   
@@ -7576,7 +7576,7 @@ VI. No.
   
 ---  
   
-[IMAGE 0211; PAGE 193]  
+[IMAGE 0211; PAGE 195]  
   
 VI.  
   
@@ -7618,7 +7618,7 @@ O₂ PRIDE
   
 ---  
   
-[IMAGE 0212; PAGE 194]  
+[IMAGE 0212; PAGE 196]  
   
 PRIDE and Humility.  
   
@@ -7641,7 +7641,7 @@ Worn by his slaves, who glory in their shame;
   
 ---  
   
-[IMAGE 0213; PAGE 195]  
+[IMAGE 0213; PAGE 197]  
   
 A gaudy dress, but tarnish’d, rent and soul,  
 And loathsome to the holy eye of heaven.  
@@ -7671,7 +7671,7 @@ O 3 Humility
   
 ---  
   
-[IMAGE 0214; PAGE 196]  
+[IMAGE 0214; PAGE 198]  
   
 Humility how glorious! how divine!  
 Thus cloath’d, and thus enrich’d, O may I shine,  
@@ -7705,7 +7705,7 @@ IV. Illusive
   
 ---  
   
-[IMAGE 0215; PAGE 197]  
+[IMAGE 0215; PAGE 199]  
   
 IV.  
   
@@ -7746,7 +7746,7 @@ O 4 On
   
 ---  
   
-[IMAGE 0216; PAGE 198]  
+[IMAGE 0216; PAGE 200]  
   
 On FRIENDSHIP.  
   
@@ -7772,7 +7772,7 @@ Mix'd
   
 ---  
   
-[IMAGE 0217; PAGE 199]  
+[IMAGE 0217; PAGE 201]  
   
 Mix’d with the streams of bliss for ever flows,  
 Nor change, decay, nor interruption knows:  
@@ -7802,7 +7802,7 @@ And in each breast rejoices, or complains;
   
 ---  
   
-[IMAGE 0218; PAGE 200]  
+[IMAGE 0218; PAGE 202]  
   
 Divides our weight of woe, relieves our cares,  
 And every pleasure heightens, as it shares.  
@@ -7826,7 +7826,7 @@ Or all the charms of greatness can bestow.
   
 ---  
   
-[IMAGE 0219; PAGE 201]  
+[IMAGE 0219; PAGE 203]  
   
 On the SAME.  
   
@@ -7852,7 +7852,7 @@ This
   
 ---  
   
-[IMAGE 0220; PAGE 202]  
+[IMAGE 0220; PAGE 204]  
   
 This stopp’d, or broken, the machine stands still,  
 Or falls, and shivers into worthless fragments.  
@@ -7880,7 +7880,7 @@ And guardian angels own the kindred flame.
   
 ---  
   
-[IMAGE 0221; PAGE 203]  
+[IMAGE 0221; PAGE 205]  
   
 Ode to Content.  
   
@@ -7913,7 +7913,7 @@ V. While
   
 ---  
   
-[IMAGE 0222; PAGE 204]  
+[IMAGE 0222; PAGE 206]  
   
 V.  
   
@@ -7943,7 +7943,7 @@ And winter shall be spring.
   
 ---  
   
-[IMAGE 0223; PAGE 205]  
+[IMAGE 0223; PAGE 207]  
   
 On Reason.  
   
@@ -7973,7 +7973,7 @@ His
   
 ---  
   
-[IMAGE 0224; PAGE 206]  
+[IMAGE 0224; PAGE 208]  
   
 His blissful presence from his wretched offspring.  
 Then Reason, heavenly flame, with faded lustre  
@@ -8004,7 +8004,7 @@ Weak
   
 ---  
   
-[IMAGE 0225; PAGE 207]  
+[IMAGE 0225; PAGE 209]  
   
 Weak-sighted reason upward rises too  
 Thus aided, and pursues the shining tract  
@@ -8034,7 +8034,7 @@ To discord, anarchy, and wild confusion.
   
 ---  
   
-[IMAGE 0226; PAGE 208]  
+[IMAGE 0226; PAGE 210]  
   
 Each individual, through the various ranks,  
 Whether of public or of private life,  
@@ -8068,7 +8068,7 @@ Its
   
 ---  
   
-[IMAGE 0227; PAGE 209]  
+[IMAGE 0227; PAGE 211]  
   
 Its cheering ray; and may thy powerful grace  
 Affist me, O my God, still to devote  
@@ -8099,7 +8099,7 @@ P2 Amid
   
 ---  
   
-[IMAGE 0228; PAGE 210]  
+[IMAGE 0228; PAGE 212]  
   
 Amid the chill of death's tremendous gloom,  
 And all the dreary horrors of the tomb,  
@@ -8131,7 +8131,7 @@ His
   
 ---  
   
-[IMAGE 0229; PAGE 211]  
+[IMAGE 0229; PAGE 213]  
   
 His language flows, and cheers our fainting powers,  
 With all the sweetness of the opening flowers,  
@@ -8160,7 +8160,7 @@ P 3 O let
   
 ---  
   
-[IMAGE 0230; PAGE 212]  
+[IMAGE 0230; PAGE 214]  
   
 O let me dwell beneath thy light divine,  
 And nature's charms contented I resign.  
@@ -8191,7 +8191,7 @@ And waft refreshment on their balmy wing.
   
 ---  
   
-[IMAGE 0231; PAGE 213]  
+[IMAGE 0231; PAGE 215]  
   
 His beauty glitters in the pearly dew,  
 And smiles amid the bright etherial blue  
@@ -8218,7 +8218,7 @@ P 4 A SIMILE.
   
 ---  
   
-[IMAGE 0232; PAGE 214]  
+[IMAGE 0232; PAGE 216]  
   
 A Simile.  
   
@@ -8243,7 +8243,7 @@ A fairer bloom, and sweeter fragrance spread.
   
 ---  
   
-[IMAGE 0233; PAGE 215]  
+[IMAGE 0233; PAGE 217]  
   
 Prest with affliction, let me then conclude,  
 That storms and sunshine, (kind vicissitude :)  
@@ -8271,7 +8271,7 @@ Can
   
 ---  
   
-[IMAGE 0234; PAGE 216]  
+[IMAGE 0234; PAGE 218]  
   
 Can I be unconcern'd? At length my eyes,  
 Long held in mists or cheated with false visions,  
@@ -8302,7 +8302,7 @@ Nor
   
 ---  
   
-[IMAGE 0235; PAGE 217]  
+[IMAGE 0235; PAGE 219]  
   
 Nor reverend hoary age, nor blooming youth,  
 Nor boasted strength escape thy fatal dart,  
@@ -8335,7 +8335,7 @@ Then,
   
 ---  
   
-[IMAGE 0236; PAGE 218]  
+[IMAGE 0236; PAGE 220]  
   
 Then, O my soul, since this deluding world,  
 With all her boasted stores, has nought to give  
@@ -8367,7 +8367,7 @@ O death,
   
 ---  
   
-[IMAGE 0237; PAGE 219]  
+[IMAGE 0237; PAGE 221]  
   
 O death, where is thy sting? and where, O grave,  
 Infatiate grave, is thy victorious power?  
@@ -8403,7 +8403,7 @@ IV. Then
   
 ---  
   
-[IMAGE 0238; PAGE 220]  
+[IMAGE 0238; PAGE 222]  
   
 IV.  
   
@@ -8430,7 +8430,7 @@ With kindly mixture sweeten every care,
   
 ---  
   
-[IMAGE 0239; PAGE 221]  
+[IMAGE 0239; PAGE 223]  
   
 But earthly bliss is ever mix’d with pain,  
 And thorns among its flowery pleasures grow.  
@@ -8456,7 +8456,7 @@ Their artless songs, and all the enchanting scene
   
 ---  
   
-[IMAGE 0240; PAGE 222]  
+[IMAGE 0240; PAGE 224]  
   
 Is harmony and beauty: nature’s charms  
 Subdue the heart, and every sense is fill’d!  
@@ -8489,7 +8489,7 @@ Power,
   
 ---  
   
-[IMAGE 0241; PAGE 223]  
+[IMAGE 0241; PAGE 225]  
   
 Power, wisdom, and beneficence divine  
 The parts of nature in their just proportion,  
@@ -8522,7 +8522,7 @@ Q III. Great
   
 ---  
   
-[IMAGE 0242; PAGE 224]  
+[IMAGE 0242; PAGE 226]  
   
 III.  
   
@@ -8554,7 +8554,7 @@ Where happiness and friendship part no more.
   
 ---  
   
-[IMAGE 0243; PAGE 225]  
+[IMAGE 0243; PAGE 227]  
   
 The fettered Mind.  
   
@@ -8587,7 +8587,7 @@ Q 2 IV. Bright
   
 ---  
   
-[IMAGE 0244; PAGE 226]  
+[IMAGE 0244; PAGE 228]  
   
 IV.  
   
@@ -8625,7 +8625,7 @@ To
   
 ---  
   
-[IMAGE 0245; PAGE 227]  
+[IMAGE 0245; PAGE 229]  
   
 [ 229 ]  
   
@@ -8660,7 +8660,7 @@ Q 3 Poor
   
 ---  
   
-[IMAGE 0246; PAGE 228]  
+[IMAGE 0246; PAGE 230]  
   
 Poor solace; soon the spreading gloom returns,  
 The heart that fain would comfort, only mourns.  
@@ -8692,7 +8692,7 @@ Attempt to trace, while clouds o’er spread the scene;
   
 ---  
   
-[IMAGE 0247; PAGE 229]  
+[IMAGE 0247; PAGE 231]  
   
 Its dealings all are just, and wise, and kind;  
 Our lesson this—“Be humble and resign’d!”  
@@ -8722,7 +8722,7 @@ Q 4 The
   
 ---  
   
-[IMAGE 0248; PAGE 230]  
+[IMAGE 0248; PAGE 232]  
   
 The Absent Muse.  
   
@@ -8748,7 +8748,7 @@ IV. No,
   
 ---  
   
-[IMAGE 0249; PAGE 231]  
+[IMAGE 0249; PAGE 233]  
   
 IV.  
   
@@ -8773,7 +8773,7 @@ Applauded, belov’d, and admir’d.
   
 ---  
   
-[IMAGE 0250; PAGE 232]  
+[IMAGE 0250; PAGE 234]  
   
 The Waste of Time:—Occasioned by hearing these Lines repeated.  
   
@@ -8799,7 +8799,7 @@ And
   
 ---  
   
-[IMAGE 0251; PAGE 233]  
+[IMAGE 0251; PAGE 235]  
   
 And humbly bend before that awful eye,  
 Which marks my squander’d minutes as they fly;  
@@ -8828,7 +8828,7 @@ And
   
 ---  
   
-[IMAGE 0252; PAGE 234]  
+[IMAGE 0252; PAGE 236]  
   
 And why must harmless insects be accus’d,  
 When daily, hourly warnings are refus’d?  
@@ -8858,7 +8858,7 @@ While
   
 ---  
   
-[IMAGE 0253; PAGE 235]  
+[IMAGE 0253; PAGE 237]  
   
 While faith points upward to the blest abode,  
 Of life immortal, and my Saviour God,  
@@ -8886,7 +8886,7 @@ In grateful adoration to the skies.
   
 ---  
   
-[IMAGE 0254; PAGE 236]  
+[IMAGE 0254; PAGE 238]  
   
 But ah, how short the bright untroubled hour!  
 Soon clouds arise, and storms impending lower,  
@@ -8915,7 +8915,7 @@ O may
   
 ---  
   
-[IMAGE 0255; PAGE 237]  
+[IMAGE 0255; PAGE 239]  
   
 O may I make my friends distress my own,  
 Nor let my heart, unhappy, grieve alone:  
@@ -8947,7 +8947,7 @@ IV. What
   
 ---  
   
-[IMAGE 0256; PAGE 238]  
+[IMAGE 0256; PAGE 240]  
   
 IV.  
   
@@ -8988,7 +8988,7 @@ IX. Happiness
   
 ---  
   
-[IMAGE 0257; PAGE 239]  
+[IMAGE 0257; PAGE 241]  
   
 IX.  
   
@@ -9019,7 +9019,7 @@ VOL. I. R Where
   
 ---  
   
-[IMAGE 0258; PAGE 240]  
+[IMAGE 0258; PAGE 242]  
   
 Where many toil their weary hours away.  
 In search of happiness amid the dust.  
@@ -9051,7 +9051,7 @@ Where
   
 ---  
   
-[IMAGE 0259; PAGE 241]  
+[IMAGE 0259; PAGE 243]  
   
 Where thorny cares spontaneous rise, she sigh’d,  
 And wish’d a fairer prospect! smiling hope  
@@ -9082,7 +9082,7 @@ R2 Looks
   
 ---  
   
-[IMAGE 0260; PAGE 242]  
+[IMAGE 0260; PAGE 244]  
   
 Looks forward through the shades, and joyful marks  
 Her journey's end, the radiant seats of day.  
@@ -9113,7 +9113,7 @@ The path of peace, and life, and endless joy.
   
 ---  
   
-[IMAGE 0261; PAGE 243]  
+[IMAGE 0261; PAGE 245]  
   
 To the Votaries of Pleasure.  
   
@@ -9142,7 +9142,7 @@ R 3
   
 ---  
   
-[IMAGE 0262; PAGE 244]  
+[IMAGE 0262; PAGE 246]  
   
 How long, deluded, wretched souls; how long  
 Shall pleasure sooth you with her syren song?  
@@ -9171,7 +9171,7 @@ Shall with the keeneist pangs of terror wound;
   
 ---  
   
-[IMAGE 0263; PAGE 245]  
+[IMAGE 0263; PAGE 247]  
   
 Shall wound those guilty souls, who dare despise His sovereign grace; nor life nor glory prize. Before his dreadful bar you must appear:  
 That awful, that tremendous hour, how near To you unknown; yet every moment brings The important period nearer on its wings.  
@@ -9191,7 +9191,7 @@ R 4
   
 ---  
   
-[IMAGE 0264; PAGE 246]  
+[IMAGE 0264; PAGE 248]  
   
 On the Publick Fast. Feb. 6, 1756.  
   
@@ -9220,7 +9220,7 @@ IV. What
   
 ---  
   
-[IMAGE 0265; PAGE 247]  
+[IMAGE 0265; PAGE 249]  
   
 IV.  
   
@@ -9254,7 +9254,7 @@ NATIONAL
   
 ---  
   
-[IMAGE 0266; PAGE 248]  
+[IMAGE 0266; PAGE 250]  
   
 NATIONAL JUDGMENTS DEPRECATED.  
 On the Fast. Feb. 11, 1757.  
@@ -9291,7 +9291,7 @@ V. Look
   
 ---  
   
-[IMAGE 0267; PAGE 249]  
+[IMAGE 0267; PAGE 251]  
   
 V.  
   
@@ -9330,7 +9330,7 @@ Obedient own thy guardian hand.
   
 ---  
   
-[IMAGE 0268; PAGE 250]  
+[IMAGE 0268; PAGE 252]  
   
 On the SAME. PLEADING for Mercy.  
   
@@ -9363,7 +9363,7 @@ V. O gracious
   
 ---  
   
-[IMAGE 0269; PAGE 251]  
+[IMAGE 0269; PAGE 253]  
   
 V.  
   
@@ -9400,7 +9400,7 @@ III. See,
   
 ---  
   
-[IMAGE 0270; PAGE 252]  
+[IMAGE 0270; PAGE 254]  
   
 III.  
   
@@ -9436,7 +9436,7 @@ VII. Almighty
   
 ---  
   
-[IMAGE 0271; PAGE 253]  
+[IMAGE 0271; PAGE 255]  
   
 VII.  
   
@@ -9456,7 +9456,7 @@ The END of the first VOLUME.
   
 ---  
   
-[IMAGE 0272; PAGE 254]  
+[IMAGE 0272; PAGE 256]  
   
 VII.  
   
@@ -9474,13 +9474,13 @@ And love, and praise the Lord.
   
 ---  
   
-[IMAGE 0273; PAGE 255]  
+[IMAGE 0273; PAGE 257]  
   
 The image provided is too blurry and low-resolution to accurately recognize any text. It appears to be a blank or very faint page with no visible content.  
   
 ---  
   
-[IMAGE 0274; PAGE 256]  
+[IMAGE 0274; PAGE 258]  
   
 No portrait of Miss Steele is known to the present writer, and from her sensitive modesty and seclusion it may perhaps be inferred that none was taken. Otherwise it would be hard to commend her good friend Dr. Evans in his choice of a frontispiece for the volume of her "remains" which he published after her death. Only a sepulchral urn represents the poetess, to which a stilted female figure appeals with outstretched hands and the legend:  
   
@@ -9488,13 +9488,13 @@ No portrait of Miss Steele is known to the present writer, and from her sensitiv
   
 ---  
   
-[IMAGE 0275; PAGE 257]  
+[IMAGE 0275; PAGE 259]  
   
 Many of the hymns are still sung, some few are sung quite widely. But the latest (1898) American Baptist hymnal contains but seven of the hymns of Theodosia in a total of eight hundred and fifty-six.  
   
 ---  
   
-[IMAGE 0276; PAGE 258]  
+[IMAGE 0276; PAGE 260]  
   
 ```markdown  
   
@@ -9502,7 +9502,7 @@ Many of the hymns are still sung, some few are sung quite widely. But the latest
   
 ---  
   
-[IMAGE 0277; PAGE 259]  
+[IMAGE 0277; PAGE 261]  
   
 6 7 8 9 10  
   
