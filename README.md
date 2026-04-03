@@ -16,3 +16,8 @@ https://archive.org/details/hymnspsalmspoems00stee_1 1882 edition (not yet OCR'd
 The Sheppard collection was easier to OCR; it doesn't use a long s, or use the old convention of having
 the first word of the next page appear at the bottom of the current page. We'll see if we can get
 everything cleaned up.
+
+
+Hugging Face repos: 
+- [Volumes 1-3](https://huggingface.co/datasets/willwhim/anne-steele-steele-vol_1-3-1780)
+- [Sheppard 1868](https://huggingface.co/datasets/willwhim/anne-steele-steele-sheppard-1868)
